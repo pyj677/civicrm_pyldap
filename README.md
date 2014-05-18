@@ -48,5 +48,6 @@ Mozilla Thunderbird is a good starting point for testing, however to make it mos
 
 Use from Outlook
 ----------------
-Same as thunderbird, but the login has to be 
-cn=nicolas, dc=example, dc=org (or whatever your bind DN)
+Same as Thunderbird, basically.  Username is the Dupal username.  Search base is
+
+dc=example,dc=org - or your chosen config file section.
